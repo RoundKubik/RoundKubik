@@ -25,4 +25,4 @@ Some of my other skills that might come in handy include:
 My ![GitHub](https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717) stats:  
 ## 📊 Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RoundKubik&show_icons=true&hide_title=true" alt="RoundKubik"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoundKubik&layout=compact)](https://github.com/RoundKubik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoundKubik)](https://github.com/anuraghazra/github-readme-stats)
