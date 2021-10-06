@@ -23,3 +23,6 @@ Some of my other skills that might come in handy include:
 
 ## ⚡
 My ![GitHub](https://img.shields.io/badge/-GitHub-white?logo=github&logoColor=181717) stats:  
+## 📊 Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RoundKubik&show_icons=true&hide_title=true" alt="denis-shcherbinin"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoundKubik&layout=compact&langs_count=10" alt="denis-shcherbinin"/>
