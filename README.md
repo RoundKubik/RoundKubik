@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is _Nikita Kubov_, or simply RoundKubik. 
-I'm a professional procrastinator, lord of laziness and non-productivity. As bequeathed ![@2pizza](https://twitter.com/the2pizza) and ![@fillpackart](https://twitter.com/fillpackart)
+I'm a professional procrastinator, lord of laziness and non-productivity. As bequeathed [@2pizza](https://twitter.com/the2pizza) and [@fillpackart](https://twitter.com/fillpackart)
 I'm inspired in Android Development to become the master of this sphere.
 
 
